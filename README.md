@@ -121,7 +121,7 @@ no triangular
 triangular
 ```
 
-## Question #3 - Número piramidal cuadrado (6 points)
+## Question #3 - Eliminar Vocales (6 points)
 
 Escribir una **función recursiva** cuyo nombre sea `eliminar_vocales` que reciba como parámetro un valor del tipo `std::string` que definirá un **texto** de entrada y a partir del generar un nuevo texto que remueva todas las vocales del texto original, el nuevo texto debera ser devuelto en el valor de retorno de la función.
 
