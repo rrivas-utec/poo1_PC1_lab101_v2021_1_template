@@ -1,0 +1,31 @@
+#input
+    1
+    -2
+    1
+#output
+    1
+#endtest
+
+#input
+    -1
+    4
+    -2
+#output
+    3.41421
+#endtest
+
+#input
+    2
+    4
+    3
+#output
+    no hay raíces reales
+#endtest
+
+#input
+    0.5
+    -1
+    1
+#output
+    no hay raíces reales
+#endtest

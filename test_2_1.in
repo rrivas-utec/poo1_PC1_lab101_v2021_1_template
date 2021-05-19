@@ -1,0 +1,17 @@
+#input
+    630
+#output
+    triangular
+#endtest
+
+#input
+    500
+#output
+    no triangular
+#endtest
+
+#input
+    406
+#output
+    triangular
+#endtest

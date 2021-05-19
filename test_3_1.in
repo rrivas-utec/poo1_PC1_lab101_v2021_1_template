@@ -1,0 +1,18 @@
+#input
+    Este texto tiene vocales
+#output
+    st txt tn vcls
+#endtest
+
+#input
+    Murcielago
+#output
+    Mrclg
+#endtest
+
+#input
+    Universidad de Ingenieria y Tecnologia - UTEC
+#output
+    nvrsdd d ngnr y Tcnlg - TC
+#endtest
+
